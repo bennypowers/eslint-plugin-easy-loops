@@ -1,5 +1,8 @@
 # eslint-plugin-easy-loops
 
+![.github/workflows/main.yml](https://github.com/bennypowers/eslint-plugin-easy-loops/workflows/.github/workflows/main.yml/badge.svg?branch=master)
+[![npm](https://img.shields.io/npm/v/eslint-plugin-easy-loops.svg)](https://www.npmjs.com/package/eslint-plugin-easy-loops)
+
 Use this plugin if you'd like to restrict the use of loops to simple, single-expression loop bodies
 
 ## 👎 Bad
@@ -25,9 +28,6 @@ for (const child of this.children)
 while (node !== document.body)
   leaveBreadCrumb(node)
 ```
-
-![.github/workflows/main.yml](https://github.com/bennypowers/eslint-plugin-easy-loops/workflows/.github/workflows/main.yml/badge.svg?branch=master)
-[![npm](https://img.shields.io/npm/v/eslint-plugin-easy-loops.svg)](https://www.npmjs.com/package/eslint-plugin-easy-loops)
 
 ## Installation
 ```sh
