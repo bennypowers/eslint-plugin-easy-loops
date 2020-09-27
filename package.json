@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-easy-loops",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Restricts the kinds of loops allowed in JavaScript and TypeScript sources",
   "main": "index.cjs.js",
   "directories": {
