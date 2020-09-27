@@ -4,7 +4,7 @@ const rule = require('../lib/easy-loops.cjs');
 const { RuleTester } = require('eslint');
 
 const ruleTester = new RuleTester({ parserOptions: { ecmaVersion: 2015 } });
-ruleTester.run('no-loops', rule, {
+ruleTester.run('easy-loops', rule, {
   valid: [
     {
       code: '[1, 2, 3].map(function (i) { console.log(i); });',
