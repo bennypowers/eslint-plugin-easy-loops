@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    'no-loops': require('./lib/easy-loops.cjs'),
+    'easy-loops': require('./lib/easy-loops.cjs'),
   },
 };
