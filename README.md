@@ -56,4 +56,4 @@ You [don't](http://www.codereadability.com/coding-without-loops/) [need](http://
 
 But, OTOH, sometimes you don't need the syntactic noise of a `.forEach`;
 
-This is essentially a more lenient version of (no-loops)[https://npm.im/eslint-plugin-no-loops]
+This is essentially a more lenient version of [no-loops](https://npm.im/eslint-plugin-no-loops)
