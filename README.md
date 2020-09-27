@@ -26,7 +26,7 @@ while (node !== document.body)
   leaveBreadCrumb(node)
 ```
 
-[![Build Status]()]()
+![.github/workflows/main.yml](https://github.com/bennypowers/eslint-plugin-easy-loops/workflows/.github/workflows/main.yml/badge.svg?branch=master)
 [![npm](https://img.shields.io/npm/v/eslint-plugin-easy-loops.svg)](https://www.npmjs.com/package/eslint-plugin-easy-loops)
 
 ## Installation
